@@ -48,7 +48,3 @@ A modern, minimalistic, and interactive single-page website for Serrano Dryclean
 ## Deployment
 
 Deploy easily with [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or your preferred platform.
-
-## License
-
-This project is licensed under the MIT License.
