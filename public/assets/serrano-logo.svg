@@ -1,0 +1,13 @@
+<svg width="300" height="70" viewBox="0 0 260 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="34" font-family="Playfair Display, serif" font-weight="bold" font-size="50" fill="#22C55E" filter="url(#dropshadow)">
+    SERRANO
+  </text>
+  <text x="40" y="55" font-family="Playfair Display, serif" font-weight="500" font-size="25" fill="rgba(22, 137, 64, 1)" letter-spacing="3">
+    CLEANERS
+  </text>
+  <defs>
+    <filter id="dropshadow" x="0" y="0" width="150%" height="150%">
+      <feDropShadow dx="1" dy="2" stdDeviation="1" flood-color="#222831" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+</svg>

@@ -6,6 +6,7 @@ import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
 import ContactForm from "./components/ContactForm";
 import Navbar from "./components/Navbar";
+import SectionNavbar from './components/SectionNavbar';
 
 // Optional: install "react-scroll" for smooth scrolling
 import { Element } from "react-scroll";
@@ -14,6 +15,7 @@ export default function App() {
   return (
     <div className="bg-[#FAFAFA] min-h-screen">
       <Navbar />
+      <SectionNavbar />
       <Element name="hero"><Hero /></Element>
       <Element name="about"><About /></Element>
       <Element name="services"><Services /></Element>
